@@ -1,3 +1,21 @@
 body {
+  background-color: black;
+}
 
+h2 {
+  color: white;
+  font-size: 40px;
+  font-variant: small-caps;
+  letter-spacing: 1px;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%; 
+  border: dashed 6px lightgrey;
+}
+img:hover {
+  width: 300px;
+  border-radius: 50%;
+  border: dashed 6px white;
 }
